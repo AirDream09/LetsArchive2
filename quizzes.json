@@ -1,0 +1,1969 @@
+{
+  "serie1": {
+    "questions": [
+      {
+        "q": "In welcher fiktiven Küstenstadt spielt Hidden Side?",
+        "options": [
+          "Newbury",
+          "Ninjago City",
+          "Knightonia",
+          "Ban Tang"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der Hauptheld, dessen Mutter neue Schulleiterin wird?",
+        "options": [
+          "Jack",
+          "Clay",
+          "Kai",
+          "Dario"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Jacks treuer Geisterhund?",
+        "options": [
+          "Spencer",
+          "Max",
+          "Rex",
+          "Bello"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wodurch werden die Hidden-Side-Modelle zum Leben erweckt?",
+        "options": [
+          "Eine AR-App",
+          "Ein Zauberspruch",
+          "Ein Schlüssel",
+          "Musik"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer weiht Jack in das Geisterjäger-Team ein?",
+        "options": [
+          "Parker",
+          "J.B.",
+          "Douglas",
+          "Rami"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche Rolle spielt J.B. im Team?",
+        "options": [
+          "Sie baut die Geisterjäger-Technik",
+          "Sie ist die Bürgermeisterin",
+          "Sie ist ein Geist",
+          "Sie ist die Antagonistin"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "In welchem Jahr wurde die LEGO-Reihe Hidden Side erstmals veröffentlicht?",
+        "options": [
+          "2019",
+          "2015",
+          "2021",
+          "2017"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Was für ein Genre bedient Hidden Side hauptsächlich?",
+        "options": [
+          "Geister-/Mystery-Abenteuer",
+          "Weltraum-Science-Fiction",
+          "Piratenabenteuer",
+          "Superhelden-Action"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie2": {
+    "questions": [
+      {
+        "q": "Wie heißt der grüne Ninja mit bürgerlichem Namen?",
+        "options": [
+          "Lloyd Garmadon",
+          "Kai Smith",
+          "Cole Brookstone",
+          "Jay Walker"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele ursprüngliche Ninja gibt es (Kai, Cole, Zane, Jay)?",
+        "options": [
+          "4",
+          "3",
+          "5",
+          "6"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist der Hauptschurke in Staffel 1 'Das Jahr der Schlangen'?",
+        "options": [
+          "Pythor",
+          "Garmadon",
+          "Morro",
+          "Chen"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der weise Mentor der Ninja?",
+        "options": [
+          "Sensei Wu",
+          "Sensei Garmadon",
+          "Meister Chen",
+          "Meister Yang"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Lloyds Vater?",
+        "options": [
+          "Garmadon",
+          "Wu",
+          "Pythor",
+          "Morro"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "In Staffel 5 (Possession) geht es um den bösen Geist...",
+        "options": [
+          "Morro",
+          "Nadakhan",
+          "Chen",
+          "Aspheera"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welches Fahrzeug/Zuhause der Ninja stiehlt Garmadon in Staffel 2?",
+        "options": [
+          "Das Flugschiff",
+          "Das U-Boot",
+          "Der Feuerdrache",
+          "Die Festung"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 1 von Ninjago?",
+        "options": [
+          "15",
+          "21",
+          "12",
+          "10"
+        ],
+        "correct": 0,
+        "season": "1"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 1 bei Ninjago?",
+        "options": [
+          "Pilot",
+          "Folge 01 - Die Einladung",
+          "Folge 01 - Der Blutmond",
+          "Folge 01 - Möchtest du Prime Empire betreten?"
+        ],
+        "correct": 0,
+        "season": "1"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 2 von Ninjago?",
+        "options": [
+          "13",
+          "8",
+          "20",
+          "22"
+        ],
+        "correct": 0,
+        "season": "2"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 2 bei Ninjago?",
+        "options": [
+          "Folge 01 - Finsternis zieht herauf",
+          "Folge 01 - Der Blutmond",
+          "Ninjago Legends Monstrosity (Englisch)",
+          "Folge 01 - Die Verschwundenen"
+        ],
+        "correct": 0,
+        "season": "2"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 3 von Ninjago?",
+        "options": [
+          "8",
+          "12",
+          "15",
+          "21"
+        ],
+        "correct": 0,
+        "season": "3"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 3 bei Ninjago?",
+        "options": [
+          "Folge 01 - Das neue Ninjago",
+          "Ninjago Legends Monstrosity (Englisch)",
+          "Folge 01 - Der Blutmond",
+          "Folge 01 - Die Maske der Täuschung"
+        ],
+        "correct": 0,
+        "season": "3"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 4 von Ninjago?",
+        "options": [
+          "10",
+          "22",
+          "25",
+          "21"
+        ],
+        "correct": 0,
+        "season": "4"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 4 bei Ninjago?",
+        "options": [
+          "Folge 01 - Die Einladung",
+          "Pilot",
+          "Folge 01 - Möchtest du Prime Empire betreten?",
+          "Folge 01 - Geheime Teesorten"
+        ],
+        "correct": 0,
+        "season": "4"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 5 von Ninjago?",
+        "options": [
+          "10",
+          "20",
+          "32",
+          "12"
+        ],
+        "correct": 0,
+        "season": "5"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 5 bei Ninjago?",
+        "options": [
+          "Folge 01 - Stürmischer Wind",
+          "Ninjago Legends Monstrosity (Englisch)",
+          "Folge 01 - Geheime Teesorten",
+          "Folge 01 - Die Verschwundenen"
+        ],
+        "correct": 0,
+        "season": "5"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 6 von Ninjago?",
+        "options": [
+          "12",
+          "21",
+          "20",
+          "25"
+        ],
+        "correct": 0,
+        "season": "6"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 6 bei Ninjago?",
+        "options": [
+          "Folge 01 - Der Geist aus der Teekanne",
+          "Folge 01 - Faule Ninja",
+          "Folge 01 - Die Verschwundenen",
+          "Folge 01 - Die Maske der Täuschung"
+        ],
+        "correct": 0,
+        "season": "6"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 7 von Ninjago?",
+        "options": [
+          "17",
+          "13",
+          "30",
+          "12"
+        ],
+        "correct": 0,
+        "season": "7"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 7 bei Ninjago?",
+        "options": [
+          "Folge 01 - Meister der Zeit",
+          "Folge 01 - Finsternis zieht herauf",
+          "Folge 01 - Die Maske der Täuschung",
+          "Pilot"
+        ],
+        "correct": 0,
+        "season": "7"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 8 von Ninjago?",
+        "options": [
+          "10",
+          "21",
+          "22",
+          "8"
+        ],
+        "correct": 0,
+        "season": "8"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 8 bei Ninjago?",
+        "options": [
+          "Folge 01 - Die Maske der Täuschung",
+          "Folge 01 - Stürmischer Wind",
+          "Folge 01 - Der Geist aus der Teekanne",
+          "Folge 01 - Eine dunkle Gefahr"
+        ],
+        "correct": 0,
+        "season": "8"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 9 von Ninjago?",
+        "options": [
+          "10",
+          "13",
+          "22",
+          "32"
+        ],
+        "correct": 0,
+        "season": "9"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 9 bei Ninjago?",
+        "options": [
+          "Folge 01 - Gib niemals auf",
+          "Folge 01 - Die Einladung",
+          "Folge 01 - Die Verschwundenen",
+          "Folge 01 - Stürmischer Wind"
+        ],
+        "correct": 0,
+        "season": "9"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 10 von Ninjago?",
+        "options": [
+          "10",
+          "30",
+          "15",
+          "13"
+        ],
+        "correct": 0,
+        "season": "10"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 10 bei Ninjago?",
+        "options": [
+          "Folge 01 - Eine dunkle Gefahr",
+          "Folge 01 - Die geheime Insel",
+          "Folge 01 - Stürmischer Wind",
+          "Folge 01 - Der Geist aus der Teekanne"
+        ],
+        "correct": 0,
+        "season": "10"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 11 von Ninjago?",
+        "options": [
+          "30",
+          "8",
+          "10",
+          "32"
+        ],
+        "correct": 0,
+        "season": "11"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 11 bei Ninjago?",
+        "options": [
+          "Folge 01 - Faule Ninja",
+          "Folge 01 - Möchtest du Prime Empire betreten?",
+          "Folge 01 - Die Einladung",
+          "Folge 01 - Das neue Ninjago"
+        ],
+        "correct": 0,
+        "season": "11"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 12 von Ninjago?",
+        "options": [
+          "32",
+          "20",
+          "17",
+          "30"
+        ],
+        "correct": 0,
+        "season": "12"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 12 bei Ninjago?",
+        "options": [
+          "Folge 01 - Möchtest du Prime Empire betreten?",
+          "Folge 01 - Gib niemals auf",
+          "Pilot",
+          "Folge 01 - Die Maske der Täuschung"
+        ],
+        "correct": 0,
+        "season": "12"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 13 von Ninjago?",
+        "options": [
+          "22",
+          "12",
+          "15",
+          "30"
+        ],
+        "correct": 0,
+        "season": "13"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 13 bei Ninjago?",
+        "options": [
+          "Folge 01 - Die geheime Insel",
+          "Folge 01 - Meister der Zeit",
+          "Folge 01 - Finsternis zieht herauf",
+          "Folge 01 - Die Einladung"
+        ],
+        "correct": 0,
+        "season": "13"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 14 von Ninjago?",
+        "options": [
+          "30",
+          "12",
+          "15",
+          "32"
+        ],
+        "correct": 0,
+        "season": "14"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 14 bei Ninjago?",
+        "options": [
+          "Folge 01 - Abschied vom Meer",
+          "Folge 01 - Die Einladung",
+          "Folge 01 - Geheime Teesorten",
+          "Folge 01 - Eine dunkle Gefahr"
+        ],
+        "correct": 0,
+        "season": "14"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 15 von Ninjago?",
+        "options": [
+          "25",
+          "10",
+          "12",
+          "13"
+        ],
+        "correct": 0,
+        "season": "15"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 15 bei Ninjago?",
+        "options": [
+          "Ninjago Legends Monstrosity (Englisch)",
+          "Folge 01 - Faule Ninja",
+          "Folge 01 - Meister der Zeit",
+          "Folge 01 - Möchtest du Prime Empire betreten?"
+        ],
+        "correct": 0,
+        "season": "15"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 16 von Ninjago?",
+        "options": [
+          "21",
+          "25",
+          "22",
+          "13"
+        ],
+        "correct": 0,
+        "season": "16"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 16 bei Ninjago?",
+        "options": [
+          "Folge 01 - Der Blutmond",
+          "Folge 01 - Eine dunkle Gefahr",
+          "Folge 01 - Das neue Ninjago",
+          "Folge 01 - Gib niemals auf"
+        ],
+        "correct": 0,
+        "season": "16"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 17 von Ninjago?",
+        "options": [
+          "20",
+          "30",
+          "12",
+          "32"
+        ],
+        "correct": 0,
+        "season": "17"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 17 bei Ninjago?",
+        "options": [
+          "Folge 01 - Die Verschwundenen",
+          "Folge 01 - Abschied vom Meer",
+          "Folge 01 - Faule Ninja",
+          "Pilot"
+        ],
+        "correct": 0,
+        "season": "17"
+      },
+      {
+        "q": "Welches Element beherrscht Kai?",
+        "options": [
+          "Feuer",
+          "Blitz",
+          "Erde",
+          "Eis"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welches Element beherrscht Jay?",
+        "options": [
+          "Blitz",
+          "Feuer",
+          "Erde",
+          "Eis"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welches Element beherrscht Cole?",
+        "options": [
+          "Erde",
+          "Feuer",
+          "Blitz",
+          "Eis"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welches Element beherrscht Zane?",
+        "options": [
+          "Eis",
+          "Feuer",
+          "Blitz",
+          "Erde"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Zane entpuppt sich im Laufe der Serie als was?",
+        "options": [
+          "Ein Nindroid (Roboter)",
+          "Ein Geist",
+          "Ein Drache",
+          "Ein Zauberer"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist Kais Schwester, die später ebenfalls als Ninja kämpft?",
+        "options": [
+          "Nya",
+          "Skylor",
+          "Harumi",
+          "Pixal"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Unter welchem Decknamen kämpft Nya zeitweise als maskierte Heldin?",
+        "options": [
+          "Samurai X",
+          "Water Girl",
+          "Shadow Ninja",
+          "Nya Prime"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist Zanes Vater, ein genialer Erfinder?",
+        "options": [
+          "Dr. Julien",
+          "Cyrus Borg",
+          "Dr. Saunders",
+          "Meister Chen"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche vier Stämme bilden die Serpentine?",
+        "options": [
+          "Hypnobrai, Fangpyre, Constrictai, Venomari",
+          "Anacondrai, Python, Kobra, Viper",
+          "Naga, Sidewinder, Boa, Adder",
+          "Sunfang, Moonfang, Icefang, Stormfang"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die dunkle Quelle allen Bösen in Ninjago?",
+        "options": [
+          "Der Overlord",
+          "Morro",
+          "Der Skelett-Zauberer",
+          "Der Bösewicht ohne Namen"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wessen Tochter ist Skylor?",
+        "options": [
+          "Meister Chens",
+          "Sensei Wus",
+          "Garmadons",
+          "Cyrus Borgs"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Was ist Skylors besondere Kraft?",
+        "options": [
+          "Sie kann Elementarkräfte anderer absorbieren",
+          "Sie kann fliegen",
+          "Sie ist unsichtbar",
+          "Sie kann die Zeit anhalten"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der digitale KI-Assistent, der PIXAL erschuf?",
+        "options": [
+          "Cyrus Borg",
+          "Dr. Julien",
+          "Zane",
+          "Ed Walker"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche Waffe führt Cole als Golden Weapon?",
+        "options": [
+          "Die Sense der Erdbeben",
+          "Das Schwert des Feuers",
+          "Die Shurikens des Eises",
+          "Die Nunchakus des Blitzes"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie nennt sich der finstere Skelett-General, der früh in der Serie auftaucht?",
+        "options": [
+          "Samukai",
+          "Kruncha",
+          "Nuckal",
+          "General Kozu"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche Farbe trägt Lloyd als grüner Ninja?",
+        "options": [
+          "Grün",
+          "Rot",
+          "Blau",
+          "Schwarz"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer bringt den Ninja das Spinjitzu bei?",
+        "options": [
+          "Sensei Wu",
+          "Garmadon",
+          "Nya",
+          "Dareth"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der tollpatschige Möchtegern-Ninja und Dojo-Besitzer, Freund des Teams?",
+        "options": [
+          "Dareth",
+          "Cole",
+          "Kai",
+          "Jay"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche Stadt bildet das politische Zentrum von Ninjago?",
+        "options": [
+          "Ninjago City",
+          "Stiix",
+          "Jamanakai Village",
+          "Kryptarium"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt das berüchtigte Gefängnis in Ninjago?",
+        "options": [
+          "Kryptarium",
+          "Stiix Vollzugsanstalt",
+          "Ninjago Central Prison",
+          "Das Verlies der Serpentine"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie3": {
+    "questions": [
+      {
+        "q": "Wer ist MKs legendärer Mentor?",
+        "options": [
+          "Sun Wukong (Monkey King)",
+          "Tang Sanzang",
+          "Pigsy",
+          "Sandy"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Auf welcher berühmten chinesischen Geschichte basiert Monkie Kid?",
+        "options": [
+          "Die Reise nach Westen",
+          "Die drei Königreiche",
+          "Der Affenkönig kehrt heim",
+          "Mulan"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Sun Wukongs legendäre Waffe?",
+        "options": [
+          "Der goldene Stab (Ruyi Jingu Bang)",
+          "Der Jadefächer",
+          "Der Drachensäbel",
+          "Der Phönixspeer"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist die zweite Heldin an MKs Seite?",
+        "options": [
+          "Mei",
+          "Pigsy",
+          "Tang",
+          "Jade"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Bevor MK Held wurde, arbeitete er als...",
+        "options": [
+          "Nudel-Lieferjunge",
+          "Ritter",
+          "Feuerwehrmann",
+          "Pirat"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welcher berühmte Synchronsprecher (bekannt als Goku) leiht Sun Wukong im Original seine Stimme?",
+        "options": [
+          "Sean Schemmel",
+          "Tom Kenny",
+          "Jack Black",
+          "Chris Sabat"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wo arbeitet MK, bevor er zum Helden wird?",
+        "options": [
+          "In Pigsys Nudelladen",
+          "In einer Schule",
+          "In einem Museum",
+          "In einem Tempel"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die kluge Mechanikerin und Verbündete des Teams?",
+        "options": [
+          "Mei",
+          "Tang",
+          "Sandy",
+          "Jade"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist der ruhige, weise Kampfkunstmeister im Team?",
+        "options": [
+          "Sandy",
+          "Pigsy",
+          "Tang",
+          "MK"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der gelehrte, wortgewandte Mönch im Team?",
+        "options": [
+          "Tang",
+          "Sandy",
+          "Pigsy",
+          "DBK"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist der Sohn von Prinzessin Eisenfächer und dem Bullenkönig?",
+        "options": [
+          "Red Son",
+          "MK",
+          "Macaque",
+          "Azure Lion"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der rivalisierende sechsohrige Makake, der zum Erzfeind wird?",
+        "options": [
+          "Macaque",
+          "Red Son",
+          "DBK",
+          "Azure Lion"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "MK befreit den Affenkönig versehentlich aus welchem Zustand?",
+        "options": [
+          "Gefangenschaft/Versiegelung",
+          "Einem tiefen Schlaf",
+          "Einem Fluch",
+          "Einer Statue"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie4": {
+    "questions": [
+      {
+        "q": "Welche Tierart ist Mordecai?",
+        "options": [
+          "Ein Blauhäher",
+          "Ein Waschbär",
+          "Ein Yeti",
+          "Ein Lolli-Mensch"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche Tierart ist Rigby?",
+        "options": [
+          "Ein Waschbär",
+          "Ein Blauhäher",
+          "Ein Gorilla",
+          "Ein Geist"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wo arbeiten Mordecai und Rigby als Platzwarte?",
+        "options": [
+          "In einem Park",
+          "In einer Schule",
+          "In einem Museum",
+          "In einem Kino"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt ihr Chef, ein wandelnder Kaugummiautomat?",
+        "options": [
+          "Benson",
+          "Pops",
+          "Skips",
+          "Muscle Man"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die allererste Episode der Serie?",
+        "options": [
+          "The Power",
+          "Free Cake",
+          "Death Punchies",
+          "Prank Callers"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer erschuf Regular Show und spricht auch Mordecai?",
+        "options": [
+          "J.G. Quintel",
+          "Rebecca Sugar",
+          "Pendleton Ward",
+          "Alex Hirsch"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Bensons Assistent mit dem Lolli-Kopf?",
+        "options": [
+          "Pops",
+          "Skips",
+          "Muscle Man",
+          "High Five Ghost"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welcher Charakter ist in Wahrheit unsterblich und sehr weise?",
+        "options": [
+          "Skips",
+          "Pops",
+          "Benson",
+          "Rigby"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie lautet Muscle Mans bürgerlicher Name?",
+        "options": [
+          "Mitch Sorenstein",
+          "Mordecai Quintel",
+          "Rigby Smith",
+          "Benson Dunwoody"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Was hat High Five Ghost Besonderes an seinem Kopf?",
+        "options": [
+          "Eine Hand steckt darin",
+          "Ein Auge fehlt",
+          "Er leuchtet",
+          "Er ist durchsichtig"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Auf welchem Sender lief Regular Show ursprünglich?",
+        "options": [
+          "Cartoon Network",
+          "Nickelodeon",
+          "Disney Channel",
+          "Netflix"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie5": {
+    "questions": [
+      {
+        "q": "Um welche mächtige Energiequelle wird in Chima gekämpft?",
+        "options": [
+          "CHI",
+          "Vril",
+          "Kraft-Kristalle",
+          "Mana"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welchem Tierstamm gehört Laval an?",
+        "options": [
+          "Löwen",
+          "Krokodile",
+          "Adler",
+          "Wölfe"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist Lavals bester Freund, der zum Rivalen wird?",
+        "options": [
+          "Cragger",
+          "Worriz",
+          "Razar",
+          "Eris"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welchem Stamm gehört Cragger an?",
+        "options": [
+          "Krokodile",
+          "Löwen",
+          "Bären",
+          "Raben"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Lavals Vater, der König der Löwen?",
+        "options": [
+          "Lagravis",
+          "Lavertus",
+          "Crominus",
+          "Lundor"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Staffeln umfasst Legends of Chima insgesamt?",
+        "options": [
+          "3",
+          "2",
+          "4",
+          "5"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 1 von Chima?",
+        "options": [
+          "20",
+          "15",
+          "6",
+          "22"
+        ],
+        "correct": 0,
+        "season": "1"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 2 von Chima?",
+        "options": [
+          "6",
+          "20",
+          "15",
+          "7"
+        ],
+        "correct": 0,
+        "season": "2"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 3 von Chima?",
+        "options": [
+          "15",
+          "20",
+          "6",
+          "17"
+        ],
+        "correct": 0,
+        "season": "3"
+      },
+      {
+        "q": "Woraus wird CHI gewonnen?",
+        "options": [
+          "Aus einer heiligen Quelle am Berg Cavora",
+          "Aus Kristallminen",
+          "Aus dem Blut der Löwen",
+          "Aus Sonnenenergie"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Craggers ehrgeizige, hinterlistige Schwester?",
+        "options": [
+          "Crooler",
+          "Razar",
+          "Eris",
+          "Skorm"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welchem Stamm gehört Eris an?",
+        "options": [
+          "Adler",
+          "Löwen",
+          "Krokodile",
+          "Raben"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer führt die Eisjäger (Ice Hunters) an, die später auftauchen?",
+        "options": [
+          "Sir Fangar",
+          "Cragger",
+          "Skinnet",
+          "Braptor"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welchem Tier entspricht der Eisjäger-Anführer Sir Fangar?",
+        "options": [
+          "Säbelzahntiger",
+          "Eisbär",
+          "Wolf",
+          "Yeti"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welchem Stamm gehört Worriz an?",
+        "options": [
+          "Wölfe",
+          "Löwen",
+          "Adler",
+          "Bären"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wodurch werden die Fahrzeuge in Chima hauptsächlich angetrieben?",
+        "options": [
+          "CHI-Kraftstoff",
+          "Elektrizität",
+          "Dampf",
+          "Magie"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Craggers Vater, König der Krokodile?",
+        "options": [
+          "Crominus",
+          "Cragmeister",
+          "Crawley",
+          "Cronan"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie6": {
+    "questions": [
+      {
+        "q": "Wer ist der Anführer der Nexo-Ritter?",
+        "options": [
+          "Clay Moorington",
+          "Lance Richmond",
+          "Axl",
+          "Aaron Fox"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der digitale Zauberer, der die Ritter berät?",
+        "options": [
+          "Merlok 2.0",
+          "Jestro",
+          "Monstrox",
+          "Halbert"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer stiehlt zu Beginn das 'Buch der Monster'?",
+        "options": [
+          "Jestro",
+          "Merlok",
+          "Clay",
+          "Ruina"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die rollende Festung der Ritter?",
+        "options": [
+          "Der Fortrex",
+          "Der Falcon",
+          "Die Arche",
+          "Der Wanderer"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Clays leibliche Mutter, die zur Bösewichtin wurde?",
+        "options": [
+          "Ruina Steinherz",
+          "Ava Prentis",
+          "Macy Halbert",
+          "Wanda"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Aus wie vielen Rittern besteht das Kernteam (Clay, Aaron, Lance, Axl, Macy)?",
+        "options": [
+          "5",
+          "4",
+          "6",
+          "3"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 1 von Nexo Knights?",
+        "options": [
+          "10",
+          "13",
+          "14",
+          "7"
+        ],
+        "correct": 0,
+        "season": "1"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 1 bei Nexo Knights?",
+        "options": [
+          "Folge 01 – Die Abschlussfeier",
+          "Folge 01 – Zurück in die Schule",
+          "Folge 01 – Die Wolke",
+          "Folge 01 – Der Schulausflug"
+        ],
+        "correct": 0,
+        "season": "1"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 2 von Nexo Knights?",
+        "options": [
+          "10",
+          "12",
+          "9",
+          "13"
+        ],
+        "correct": 0,
+        "season": "2"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 2 bei Nexo Knights?",
+        "options": [
+          "Folge 01 – Zurück in die Schule",
+          "Folge 01 – Die Abschlussfeier",
+          "Folge 01 – Der Schulausflug",
+          "Folge 01 – Die Wolke"
+        ],
+        "correct": 0,
+        "season": "2"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 3 von Nexo Knights?",
+        "options": [
+          "10",
+          "11",
+          "13",
+          "9"
+        ],
+        "correct": 0,
+        "season": "3"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 3 bei Nexo Knights?",
+        "options": [
+          "Folge 01 – Die Wolke",
+          "Folge 01 – Zurück in die Schule",
+          "Folge 01 – Die Abschlussfeier",
+          "Folge 01 – Der Schulausflug"
+        ],
+        "correct": 0,
+        "season": "3"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 4 von Nexo Knights?",
+        "options": [
+          "10",
+          "8",
+          "11",
+          "13"
+        ],
+        "correct": 0,
+        "season": "4"
+      },
+      {
+        "q": "Wie heißt die erste Folge von Staffel 4 bei Nexo Knights?",
+        "options": [
+          "Folge 01 – Der Schulausflug",
+          "Folge 01 – Die Wolke",
+          "Folge 01 – Die Abschlussfeier",
+          "Folge 01 – Zurück in die Schule"
+        ],
+        "correct": 0,
+        "season": "4"
+      },
+      {
+        "q": "Was ist das Buch der Monster eigentlich?",
+        "options": [
+          "Ein lebendiges, böses Zauberbuch",
+          "Ein Tagebuch von Merlok",
+          "Eine Waffe der Ritter",
+          "Eine Landkarte"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welchen Beruf hatte Jestro, bevor er zum Bösewicht wurde?",
+        "options": [
+          "Hofnarr",
+          "Ritter",
+          "Zauberer",
+          "Schmied"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist Clays König und Mentor?",
+        "options": [
+          "König Halbert",
+          "Merlok",
+          "Jestro",
+          "Ruina"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche Ritterin ist die Tochter des Königs?",
+        "options": [
+          "Macy Halbert",
+          "Ava Prentis",
+          "Ruina Steinherz",
+          "Ember"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welcher Ritter ist bekannt für seinen unstillbaren Appetit?",
+        "options": [
+          "Axl",
+          "Lance",
+          "Clay",
+          "Aaron"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welcher Ritter ist eitel und stammt aus einer adeligen Familie?",
+        "options": [
+          "Lance Richmond",
+          "Axl",
+          "Aaron Fox",
+          "Clay Moorington"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie7": {
+    "questions": [
+      {
+        "q": "Wie heißt die Hauptfigur, die zu Jade Armor wird?",
+        "options": [
+          "Lan Jun",
+          "Xinyan",
+          "Kai",
+          "Alisha"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist der Hauptschurke der Serie?",
+        "options": [
+          "Der Crimson Lord",
+          "Gwi-Ma",
+          "Monstrox",
+          "Pythor"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Aus welcher Kultur/Mythologie schöpft Jade Armor seine Inspiration?",
+        "options": [
+          "Chinesische Mythologie",
+          "Griechische Mythologie",
+          "Nordische Mythologie",
+          "Ägyptische Mythologie"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der affenartige Beasticon, der oft für Chaos sorgt?",
+        "options": [
+          "Xinyan",
+          "Pixiu",
+          "Jiu Wei Hu",
+          "Shenwu"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Von welchem Studio wurde Jade Armor produziert?",
+        "options": [
+          "TeamTO",
+          "Flying Bark",
+          "Wildbrain",
+          "Method Animation"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist Lan Juns guter Freund, der ihr oft zur Seite steht?",
+        "options": [
+          "Kai",
+          "Theo",
+          "Malik",
+          "Will"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 1 von Jade Armor?",
+        "options": [
+          "26",
+          "13",
+          "28",
+          "25"
+        ],
+        "correct": 0,
+        "season": "1"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 2 von Jade Armor?",
+        "options": [
+          "13",
+          "26",
+          "14",
+          "15"
+        ],
+        "correct": 0,
+        "season": "2"
+      }
+    ]
+  },
+  "serie8": {
+    "questions": [
+      {
+        "q": "Wie viele Folgen von 'The Way Out' liegen im Archiv vor?",
+        "options": [
+          "4",
+          "6",
+          "10",
+          "2"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche Folge trägt den Titel 'Las Vegas'?",
+        "options": [
+          "F03",
+          "F01",
+          "F02",
+          "F04"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die letzte Folge (das Finale)?",
+        "options": [
+          "Finale: Weltenrettung",
+          "Der Anfang",
+          "Spooky Kirmes",
+          "Märchenwald"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welche Folge spielt in einem 'Märchenwald'?",
+        "options": [
+          "F01",
+          "F02",
+          "F03",
+          "F04"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie9": {
+    "questions": [
+      {
+        "q": "Wie heißt der Erfinder und Hausmeister der Burg von Novelmore?",
+        "options": [
+          "Dario Da Vanci",
+          "Arwynn",
+          "Gwynn",
+          "Bayron"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist der Anführer der Burnham Raiders?",
+        "options": [
+          "Bayron Burnham",
+          "Brody Burnham",
+          "Kahboom",
+          "Tyragon"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die begehrte magische Rüstung, um die gekämpft wird?",
+        "options": [
+          "Invincibus",
+          "Excalibur",
+          "Aegis",
+          "Titanheart"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist der abenteuerlustige Prinz von Novelmore?",
+        "options": [
+          "Arwynn",
+          "Dario",
+          "Brody",
+          "John"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die dritte Heldin neben Dario und Arwynn?",
+        "options": [
+          "Gwynn",
+          "Pyralia",
+          "Ashthorn",
+          "Lucifex"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Von welcher Spielzeugmarke stammt Novelmore?",
+        "options": [
+          "Playmobil",
+          "LEGO",
+          "Mattel",
+          "Schleich"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 1 von Novelmore?",
+        "options": [
+          "13",
+          "15",
+          "17",
+          "10"
+        ],
+        "correct": 0,
+        "season": "1"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 2 von Novelmore?",
+        "options": [
+          "15",
+          "13",
+          "14",
+          "16"
+        ],
+        "correct": 0,
+        "season": "2"
+      },
+      {
+        "q": "Wie wird die futuristische Rittersstadt der Helden genannt?",
+        "options": [
+          "Novelmore",
+          "Burnham",
+          "Stonecastle",
+          "Ironhold"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer sind die klassischen Rivalen von Novelmore?",
+        "options": [
+          "Die Burnham Raiders",
+          "Die Ice Hunters",
+          "Die Serpentine",
+          "Die Jestro-Bande"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie10": {
+    "questions": [
+      {
+        "q": "Wie heißt die geheimnisvolle Feenwelt der Serie?",
+        "options": [
+          "Ayuma",
+          "Ninjago",
+          "Knighton",
+          "Chima"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Elvi ist eine Fee welchen Typs?",
+        "options": [
+          "Crystal Fairy",
+          "Bat Fairy",
+          "Moon Fairy",
+          "Knight Fairy"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer sind die Gegenspieler, die Kristalle stehlen?",
+        "options": [
+          "Die Bat Fairies",
+          "Die Burnham Raiders",
+          "Die Schlangen",
+          "Die Steinmonster"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißen die drei Feenfreundinnen im Zentrum der Serie?",
+        "options": [
+          "Leavi, Elvi und Josy",
+          "Ruby, Twinkle und Gwynn",
+          "Coco, Agott und Tetia",
+          "Mei, Pigsy und Sandy"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Von welcher Spielzeugmarke stammt Adventures of Ayuma?",
+        "options": [
+          "Playmobil",
+          "LEGO",
+          "Mattel",
+          "Barbie"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie11": {
+    "questions": [
+      {
+        "q": "Aus welcher Welt stammt Prinz Alex?",
+        "options": [
+          "Ritterland (Kingsland)",
+          "Schwarzpulver-Insel",
+          "Technopolis",
+          "Die verwunschene Insel"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welchem 'Beruf' geht Ruby nach?",
+        "options": [
+          "Piratin",
+          "Ritterin",
+          "Fee",
+          "Agentin"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist die Fee im Heldenteam?",
+        "options": [
+          "Twinkle",
+          "Ruby",
+          "Gwynn",
+          "Elvi"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt das verwandlungsfähige Fahrzeug des Teams?",
+        "options": [
+          "Das Chamäleon",
+          "Der Fortrex",
+          "Die Invincibus",
+          "Der Falke"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welcher wiederkehrende Bösewicht baut den Supercomputer 'MindNet'?",
+        "options": [
+          "Dr. X",
+          "Der Schwarze Baron",
+          "Baba Cara",
+          "Sharkbeard"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Aus wie vielen Helden besteht das Kernteam Super4?",
+        "options": [
+          "4",
+          "3",
+          "5",
+          "6"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der vierte Held im Team, ein Geheimagent und Weltenreisender?",
+        "options": [
+          "Gene",
+          "Twinkle",
+          "Dr. X",
+          "Sharkbeard"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Aus welcher Welt stammt Ruby?",
+        "options": [
+          "Piratenwelt",
+          "Ritterland",
+          "Feenwelt",
+          "Technopolis"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie12": {
+    "questions": [
+      {
+        "q": "Wie viele Staffeln von 'NICHT NACHMACHEN!!!' liegen im Archiv vor?",
+        "options": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 1?",
+        "options": [
+          "6",
+          "10",
+          "4",
+          "8"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 2?",
+        "options": [
+          "6",
+          "10",
+          "4",
+          "8"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 1 von NICHT NACHMACHEN!!!?",
+        "options": [
+          "6",
+          "10",
+          "8",
+          "9"
+        ],
+        "correct": 0,
+        "season": "1"
+      },
+      {
+        "q": "Wie viele Folgen hat Staffel 2 von NICHT NACHMACHEN!!!?",
+        "options": [
+          "6",
+          "5",
+          "7",
+          "9"
+        ],
+        "correct": 0,
+        "season": "2"
+      }
+    ]
+  },
+  "serie13": {
+    "questions": [
+      {
+        "q": "Wie heißt die Hauptfigur, die zur Hexenschülerin wird?",
+        "options": [
+          "Coco",
+          "Agott",
+          "Tetia",
+          "Richeh"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt Cocos Lehrmeister?",
+        "options": [
+          "Qifrey",
+          "Olruggio",
+          "Beldaruit",
+          "Custas"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Was geschah mit Cocos Mutter durch verbotene Magie?",
+        "options": [
+          "Sie wurde zu Kristall verwandelt",
+          "Sie verschwand spurlos",
+          "Sie wurde unsichtbar",
+          "Sie verlor ihre Erinnerung"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wonach sucht Coco im 'Turm der Bücher' (Tower of Tomes)?",
+        "options": [
+          "Ein Buch, um ihre Mutter zurückzuverwandeln",
+          "Ein Schwert",
+          "Einen Schatz",
+          "Einen Drachen"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt der Feuer-Magier, der über Qifreys Atelier wacht?",
+        "options": [
+          "Olruggio",
+          "Beldaruit",
+          "Euini",
+          "Dagda"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wodurch wirken die Hexen in Atelier of Witch Hat ihre Magie?",
+        "options": [
+          "Durch gezeichnete magische Siegel/Muster",
+          "Durch gesprochene Zaubersprüche",
+          "Durch Zauberstäbe",
+          "Durch Kristalle"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie nennt man Cocos Mit-Lehrlinge in Qifreys Atelier?",
+        "options": [
+          "Agott, Tetia und Richeh",
+          "Ruby, Twinkle und Gwynn",
+          "Mei, Sandy und Tang",
+          "Elvi, Leavi und Josy"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "serie14": {
+    "questions": [
+      {
+        "q": "Wie heißt die K-Pop-Girlgroup im Zentrum der Handlung?",
+        "options": [
+          "HUNTR/X",
+          "Saja Boys",
+          "Blackpink",
+          "Golden Idols"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Aus wie vielen Mitgliedern besteht HUNTR/X?",
+        "options": [
+          "3",
+          "4",
+          "2",
+          "5"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die magische Barriere, die durch die Songs aufrechterhalten wird?",
+        "options": [
+          "Honmoon",
+          "Chi",
+          "Spinjitzu",
+          "Nexo-Kraft"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wie heißt die rivalisierende Boygroup, die eigentlich Dämonen sind?",
+        "options": [
+          "Die Saja Boys",
+          "Die Crimson Lords",
+          "Die Burnham Raiders",
+          "Die Steinmonster"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welches Geheimnis trägt Rumi, die Anführerin von HUNTR/X, in sich?",
+        "options": [
+          "Sie ist eine Halbdämonin",
+          "Sie ist unsterblich",
+          "Sie ist eine Prinzessin",
+          "Sie kann fliegen"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Auf welcher Streaming-Plattform erschien der Film?",
+        "options": [
+          "Netflix",
+          "Disney+",
+          "Amazon Prime",
+          "Apple TV+"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Wer ist der Anführer der Saja Boys?",
+        "options": [
+          "Jinu",
+          "Gwi-Ma",
+          "Baba",
+          "Han"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Welches Genre-Element verbindet der Film mit koreanischer Mythologie?",
+        "options": [
+          "Dämonenjagd",
+          "Zeitreisen",
+          "Piraterie",
+          "Raumfahrt"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Von welchem Animationsstudio wurde der Film mitproduziert?",
+        "options": [
+          "Sony Pictures Animation",
+          "Pixar",
+          "DreamWorks",
+          "Studio Ghibli"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+}
