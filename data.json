@@ -25,7 +25,7 @@
   },
   "serie2": {
     "name": "Ninjago",
-    "cover": "",
+    "cover": "covers/ninjago.jpg",
     "staffeln": {
       "1": [
         {
